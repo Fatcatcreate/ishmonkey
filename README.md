@@ -14,7 +14,7 @@ chmod +x ishmonkey
 ```
 
 
-This is a local git clone, that functions with the standard functions of:
+This is a local git clone, that functions with the stndard functions of:
 
 - `case "add"          : cmd_add(args)`
 - `case "cat-file"     : cmd_cat_file(args)`
