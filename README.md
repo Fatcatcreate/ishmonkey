@@ -1,3 +1,8 @@
+Functionality:
+download both files
+
+
+
 This is a local git clone, thta fucntions with the stanard functions of  
         case "add"          : cmd_add(args)
         case "cat-file"     : cmd_cat_file(args)
