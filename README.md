@@ -1,6 +1,17 @@
 Functionality:
 download both files
 
+RUN:
+```bash
+chmod +x ishmonkey
+```
+ FOR GENERAL USE:
+ Replace init with the command and arguments/flags
+ Use git documentation https://git-scm.com/doc
+
+```bash
+./ishmonkey init
+```
 
 
 This is a local git clone, thta fucntions with the stanard functions of  
